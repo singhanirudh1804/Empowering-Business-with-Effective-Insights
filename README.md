@@ -98,7 +98,7 @@ Data storytelling was implemented in the final dashboard to ensure that non-tech
 **Rtr. Anirudh Singh**  
 Data Analytics & Business Intelligence Enthusiast  
 📧 anirudhsingh@example.com  
-🔗 [LinkedIn](https://www.linkedin.com) | [Portfolio](#)
+🔗 [LinkedIn](https://www.linkedin.com)
 
 ---
 
