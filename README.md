@@ -91,13 +91,9 @@ Data storytelling was implemented in the final dashboard to ensure that non-tech
 
 ## 👤 Author
 
-**Rtr. Anirudh Singh**  
+**Anirudh Singh**  
 Data Analytics & Business Intelligence Enthusiast  
 🔗 [LinkedIn](https://www.linkedin.com)
 
 ---
-
-## 💬 Feedback
-
-Feel free to raise an issue or submit a PR for suggestions or improvements!
 
