@@ -57,10 +57,6 @@ Created an interactive Power BI dashboard to visualize:
 - Demand heatmap (map chart)
 - Average revenue distribution (boxplot)
 
-> 📷 _Screenshot Sample_
-
-![Dashboard Preview](./image.png)
-
 ---
 
 ### ✅ Phase 4: Presentation & Insight Delivery
